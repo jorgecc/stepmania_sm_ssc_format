@@ -46,17 +46,16 @@ It is a self-note of StepMania ".SM" and ".SSC" format
 ## types of notes
 These are the standard note values:
 
-0 – No note
-1 – Normal note
-2 – Hold head
-3 – Hold/Roll tail
-4 – Roll head
-M – Mine (or other negative note)
+* 0 – No note
+* 1 – Normal note
+* 2 – Hold head
+* 3 – Hold/Roll tail
+* 4 – Roll head
+* M – Mine (or other negative note)
 Later versions of StepMania accept other note values that may not work in older versions:
-
-K – Automatic keysound
-L – Lift note
-F – Fake note
+* K – Automatic keysound
+* L – Lift note
+* F – Fake note
 
 # ssc
 Copied from https://github.com/stepmania/stepmania/wiki/ssc
